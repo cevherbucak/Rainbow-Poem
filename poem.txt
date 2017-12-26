@@ -9,5 +9,6 @@ orange
 yellow
 unicorn
 pony
+indigo
 
 these are the colour of the rainbow, and unicorn and pony.
